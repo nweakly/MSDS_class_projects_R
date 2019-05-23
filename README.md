@@ -8,6 +8,6 @@ The __MachineLearningExamples__ folder presents small projects involving KNN, K-
 
 The __StatInferenceAndPredicitveAnalytics__ folder demonstrates practical examples of statistical inference and predictive analytics, including hypothesis testing ensemble methods (e.g., bagging, 10-fold cross-validation, boosting), association rules (basket analysis), time series analysis, anomaly detection (outlier analysis) and deep learning using H2O package as well as comparison of algorithms' performance indicators.
 
-The __StatMethods__ folder contains examples of various statistical methods and aspects of designing experiments, such as randomized and factorial experimental designm, variables choices, simple linear and multiple linear regressions, logistic regression, one- and two-way ANOVA,   as well as non-parametric statistical tests.
+The __StatMethods__ folder contains examples of various statistical methods and aspects of designing experiments, such as randomized and factorial experimental design, variables choices, simple linear and multiple linear regressions, logistic regression, one- and two-way ANOVA,   as well as non-parametric statistical tests.
 
 All exercises and projects use open datasets specified in the corresponding source files.
